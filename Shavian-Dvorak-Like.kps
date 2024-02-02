@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>16.0.144.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Version URL="">1.1</Version>
+    <Name URL="">Shavian Dvorak-like</Name>
+    <Copyright URL="">© LHoT10820</Copyright>
+  </Info>
+  <Files>
+    <File>
+      <Name>..\..\..\..\Downloads\InterAlia-BlackItalic.otf</Name>
+      <Description>Font Inter Alia Black Italic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.otf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\..\Downloads\InterAlia-Italic.otf</Name>
+      <Description>Font Inter Alia Italic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.otf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\..\Downloads\InterAlia-Bold.otf</Name>
+      <Description>Font Inter Alia Bold</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.otf</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\..\Downloads\InterAlia-Regular.otf</Name>
+      <Description>Font Inter Alia Regular</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.otf</FileType>
+    </File>
+    <File>
+      <Name>build\shavian_dvorak_like.kvk</Name>
+      <Description>File shavian_dvorak_like.kvk</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>build\shavian_dvorak_like.kmx</Name>
+      <Description>Keyboard Shavian Dvorak-like</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Shavian Dvorak-like</Name>
+      <ID>shavian_dvorak_like</ID>
+      <Version>1.1</Version>
+      <Languages>
+        <Language ID="en-Shaw-US">English (Shavian, United States)</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>

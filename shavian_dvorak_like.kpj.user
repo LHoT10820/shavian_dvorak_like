@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\shavian_dvorak_like.kpj</path>
+    <file ID="id_26bd49a022c6bdad3af0498597d765ef" Expanded="1"/>
+    <file ID="id_40cbcd7cfd84bacad4f61ec986bf98f7" Expanded="1"/>
+    <file ID="id_787ffd2e0fc73b3305fc92144908579a" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_26bd49a022c6bdad3af0498597d765ef</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\source\shavian_dvorak_like.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Inter Alia|11|   |0</DebugFont>
+        <CodeFont>Inter Alia|9|   |0</CodeFont>
+        <CharFont>Inter Alia|11|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_40cbcd7cfd84bacad4f61ec986bf98f7</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\source\shavian_dvorak_like.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_22c8de91309a4133e985dda954e414c2</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\shavian_dvorak_like.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c6e920b60c307b8f8153758675977bb6</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\shavian-dvorak-like.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_787ffd2e0fc73b3305fc92144908579a</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\dvorak_like_shavian.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_dccae77a344307fe55e3b9682a05ce35</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\shavian_dvorak_like.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_4e312ff6b9099282cb683496d798c50d</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\source\shavian_dvorak_like.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f4f31ab80d1396a0f1a1cc8d265060fa</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\source\..\build\shavian_dvorak_like.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ddc5395a4300b366d6c1114f6920e5b7</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\source\..\build\shavian_dvorak_like.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_fdce183852a219c3eb1b68f251bae7f3</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\source\..\build\shavian_dvorak_like.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0056f8150f12267d7bb09ee4e9c49553</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\source\..\..\..\..\..\Downloads\InterAlia-BlackItalic.otf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_942b18969bfbccc76962781abce7620e</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\source\..\..\..\..\..\Downloads\InterAlia-Italic.otf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_7942f5fcd50fabaa1484300c2ccfaa3f</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\source\..\..\..\..\..\Downloads\InterAlia-Bold.otf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ed100c7cc3531569c7b0e73ee82f7783</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\source\..\..\..\..\..\Downloads\InterAlia-Regular.otf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f5c09ef5073750474cc73fec355f97a0</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\..\..\..\..\Downloads\InterAlia-BlackItalic.otf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3621db924632785fbc75ba522ba3011b</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\..\..\..\..\Downloads\InterAlia-Italic.otf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_257dab0b92251a5b6521ed8c08ddacb2</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\..\..\..\..\Downloads\InterAlia-Bold.otf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_052a2b5a6768e355661951f04749cfe6</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\..\..\..\..\Downloads\InterAlia-Regular.otf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_63cbeb2e6a3c7824490cac1820e286be</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\build\shavian_dvorak_like.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c494316cc7fb0dbdebc500e096df17ab</ID>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\build\shavian_dvorak_like.kmx</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>shavian_dvorak_like.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\source\shavian_dvorak_like.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>shavian_dvorak_like.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\shavian_dvorak_like.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>Shavian-Dvorak-Like.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\Shavian-Dvorak-Like.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>shavian_dvorak_like.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\source\shavian_dvorak_like.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>dvorak_like_shavian.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\dvorak_like_shavian.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>shavian_dvorak_like.kvk</Filename>
+      <FileType>.kvk</FileType>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\build\shavian_dvorak_like.kvk</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>shavian-dvorak-like.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\DAHoy\Documents\Keyman Developer\Projects\shavian_dvorak_like\shavian-dvorak-like.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
